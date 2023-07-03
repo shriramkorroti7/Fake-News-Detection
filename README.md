@@ -1,1 +1,1 @@
-# Fake_News_Prediction_Using_Passive_Aggresive_Algorithm
+A fake news detection model to detect credibility of news texts using political news dataset.
